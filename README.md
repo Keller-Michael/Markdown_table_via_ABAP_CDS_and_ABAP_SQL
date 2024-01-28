@@ -1,4 +1,4 @@
-# ⚗️ Markdown table via ABAP CDS
+# ⚗️ Markdown table via ABAP CDS and ABAP SQL SELECT
 
 Just a small, non-serious free time SAP BTP project along the lines of: “Is that actually possible?” The answer is: "Yes it is!". You can use ABAP CDS and ABAP SQL statment SELECT to get data from the database directly as a Markdown table. I can't think of a business case for this scenario, but it's nice that it's possible 😂
 
