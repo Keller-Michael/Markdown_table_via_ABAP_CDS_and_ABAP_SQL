@@ -21,12 +21,24 @@ ENDMETHOD.
 
 ## Output example
 
+### Raw Markdown table 
+
+```Markdown
 |         **Airport ID**    |         Name                                     |         City                                 |         Country    |     
 |         :---              |         :---                                     |         :---                                 |         :---       |     
 |         ACA               |         General Juan N. Álvarez Int. Airport     |         Acapulco, Guerrero                   |         MX         |     
 |         ACE               |         Lanzarote Airport                        |         Lanzarote, Canary Islands            |         ES         |     
-|         ASP               |         Alice Springs Airport                    |         Alice Springs, Northern Territory    |         AU         |     
 |         BKK               |         Suvarnabhumi Airport                     |         Bangkok                              |         TH         |     
-|         BNA               |         Nashville International Airport          |         Nashville, Tennessee                 |         US         |     
+|         BOS               |         Logan International Airport              |         Boston, Massachusetts                |         US         |     
+|         CDG               |         Charles de Gaulle Airport                |         Paris                                |         FR         | 
+```
+
+### GitHub interpreted Markdown table
+
+|         **Airport ID**    |         Name                                     |         City                                 |         Country    |     
+|         :---              |         :---                                     |         :---                                 |         :---       |     
+|         ACA               |         General Juan N. Álvarez Int. Airport     |         Acapulco, Guerrero                   |         MX         |     
+|         ACE               |         Lanzarote Airport                        |         Lanzarote, Canary Islands            |         ES         |     
+|         BKK               |         Suvarnabhumi Airport                     |         Bangkok                              |         TH         |     
 |         BOS               |         Logan International Airport              |         Boston, Massachusetts                |         US         |     
 |         CDG               |         Charles de Gaulle Airport                |         Paris                                |         FR         |     
